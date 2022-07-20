@@ -1,2 +1,2 @@
 # Prog-logics
-Programming Logic in Portugol
+Programming Logics in Portugol
